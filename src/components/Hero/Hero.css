@@ -1,0 +1,14 @@
+
+.hero-container {
+          background:url('../../assets/coralreef.jpg');
+          box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
+          height: 100vh;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          background-position: center center; 
+          background-size: cover;
+          background-repeat: no-repeat;
+
+
+}
