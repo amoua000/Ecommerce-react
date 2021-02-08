@@ -36,9 +36,11 @@ const [imageIndex, setImageIndex] = useState(0)
 
 
 const settings = {
+          autoplay: true,
+          autoplaySpeed: 3000,
           infinite: true,
-          lazyLoad: true,
-          speed: 300,
+          // lazyLoad: true,
+          // speed: 300,
           slidesToShow: 3,
           centerMode: true,
           centerPadding: 0,
@@ -51,9 +53,10 @@ const settings = {
           <div className={classes.Slide}>
                     <Slider {...settings}>
                     {images.map((img, idx) => (
-                              <div className={idx === imageIndex ? "slide activeSlide" : "slide"}>
+                              <div key={idx} className={idx === imageIndex ? "slide activeSlide" : "slide"}>
                               <img src={img} alt={img} />
                               </div>
+                              
                     ))}
                     </Slider>
           </div>

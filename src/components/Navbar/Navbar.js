@@ -1,14 +1,16 @@
+import { Link } from 'react-router-dom';
+import { FaFish, } from 'react-icons/fa';
 import  './Navbar.css';
 
 const Navbar = () => {
   return (
+    
     <nav className="navbar">
-      <h1>Aqua Keeping Culture</h1>
+      <div className="logo"><h1>Aqua Keeping Culture</h1>  <FaFish /> </div>
       <div className="links">
-        <a href="/">Home</a>
-        <a href="/Products">Products</a>
-        <a href="/Contact">Contact</a>
-        {/* <a href="/">New Blog</a> */}
+        <Link to="/">Home</Link>
+        <Link to="/products">Products</Link>
+        <Link to="/contact">Contact</Link>
       </div>
     </nav>
   );

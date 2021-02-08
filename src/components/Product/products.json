@@ -1,0 +1,115 @@
+ {
+      "items" : [
+
+          {
+            "id": "Clown Fish",
+            "description": "Clown fish are a classic and popular beginners aquairum fish. Elegant in looks and easy to care for. Perfect in size for smaller fish tanks",
+            "price": "$30-$50",
+            "image": "https://images.unsplash.com/photo-1595503240812-7286dafaddc1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1552&q=80",
+            "alt": "Clown Fish",
+            "cost": "low",
+            "type":"fish"
+          },
+
+          {
+            "id": "Blue Tang",
+            "description": "The Blue Tang is famous from the movie Finding Nemo. Blue Tang's boasts a vibrant electric blue body dressed with bold black markings. They need a larger 6 foot tank at least.",
+            "price": "$100 (small)",
+            "image": "https://cdn.mos.cms.futurecdn.net/BgZFhT7piMqXpyzfWrdKyP-1200-80.jpg",
+            "alt": "Blue Tang",
+            "cost": "medium",
+            "type":"fish"
+          },
+          {
+            "id": "Black Volitan Lion Fish",
+            "description": "Lionfish are some of the most beautiful fish in the ocean. Although venemous it attracts many people to add it to an aquarium. They are aggressive so they must be kept with accptable tankmates. ",
+            "price": "$50-200 dending on size",
+            "image": "https://forums.saltwaterfish.com/attachments/dwarf-zebra-lionfish-e1551113897443-png.4118/",
+            "alt": "Lion Fish",
+            "type":"fish",
+            "cost": "high"
+          },
+          {
+            "id": "Yellow Tang",
+            "description": "The Yellow Tang is one of the most common and favorable fish to have in a saltwater aquarium. They grow up to 9 inches and are all wild-caught.",
+            "price": "$90-$150 depending on size",
+            "image": "https://images.unsplash.com/photo-1601302675603-eef57568526e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+            "alt": "Yellow Tang Fish",
+            "type":"fish",
+            "cost": "high"
+          },
+          {
+            "id": "Neon Damsel",
+            "description": "Small in size and beautiful at the sametime, the Neon Damsel is easy to care for and can be put in a beautiful community tank. It is semi-aggressive but is very friendly.",
+            "price": "$15",
+            "image": "https://live.staticflickr.com/1839/41949799330_08722a18e1_b.jpg",
+            "alt": "Small Damsel Fish",
+            "type":"fish",
+            "cost": "low"
+          },
+          {
+            "id": "Regal Angelfish",
+            "description": "This fish is one of the more hard to take care of fish, but the colors are super oustanding for many people who care for the Angelfish. While growing in size it's recommended to get a miniumum of a 125 gallon tank for this one.",
+            "price": "$170",
+            "image": "https://saltwateraquarist.com/wp-content/uploads/2018/10/RegalAngel-copy.jpg",
+            "alt": "Angel Fish",
+            "type":"fish",
+            "cost": "high"
+          },
+          {
+            "id": "Firefish",
+            "description": "Firefish are some of the most popular fish for any beginner and aquarists in general. Super easy to care for they are not big in size also and can be kept in a tank of at least 20 gallons.",
+            "price": "$20",
+            "image": "https://www.theaquariumguide.com/wp-content/uploads/2018/08/firefish.jpg",
+            "alt": "Fire Fish",
+            "type":"fish",
+            "cost": "low"
+          },
+          {
+            "id": "Six Line Wrasse",
+            "description": "The Six Line Wrasse is a super easy fish to take care of and is affordable for a saltwater fish. Smaller in size and beautiful in color it can be in any community.",
+            "price": "$20 (small)",
+            "image": "https://m.liveaquaria.com/images/articles/279-bestwrasses-pt5-0425181-333.jpg",
+            "alt": "Wrasse Fish",
+            "type":"fish",
+            "cost": "low"
+          },
+          {
+            "id": "Royal Gramma Basslet",
+            "description": "The Royal Gramma Basslet contains some of the most brightest colors. For such a small fish it is affordable and great for people just begining. Small in size it can be kept in smaller fish tanks like a 30 gallon.",
+            "price": "$30",
+            "image": "https://petsoid.com/wp-content/uploads/Royal-Gramma-pink-e1591438947222.jpg",
+            "alt":"Basslet fish",
+            "type":"fish",
+            "cost": "low"
+          },
+          {
+            "id": "Scarlet Skunk Cleaner Shrimp",
+            "description": "TEasy to care for and small in size, this shrimp is the best pet for any community tank and is super easy to care for. This shrimp is good for any reef tank setup.",
+            "price": "$40",
+            "image": "https://www.marinefishez.com/images/stories/virtuemart/product/shutterstock_cleaner-shrimp3.jpg",
+            "alt":"shrimp",
+            "type":"Crustacean",
+            "cost": "low"
+          },
+          {
+            "id": "Electric Blue Hermit Crab",
+            "description": "Easy to care for and unique in color this addition to any fish tank is great. They are peacful and are great cleaners to any fish tank.",
+            "price": "$12",
+            "image": "https://live.staticflickr.com/7088/7213652350_c87aa18c31_b.jpg",
+            "alt":"Crustacean",
+            "type":"Crustacean",
+            "cost": "low"
+          },
+          {
+            "id": "Red Tuxedo Urchin",
+            "description": "Small in size and unique in color this sea urchin is easy to care for and not large in size. Great for beginners and is peaceful in community tanks",
+            "price": "$30",
+            "image": "https://images.fineartamerica.com/images-medium-large-5/blue-tuxedo-sea-urchin-wernher-krutein.jpg",
+            "alt":"Sea Urchin",
+            "type":"Others",
+            "cost": "low"
+          }
+
+        ]
+}

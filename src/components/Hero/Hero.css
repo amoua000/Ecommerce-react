@@ -1,14 +1,46 @@
-
 .hero-container {
-          background:url('../../assets/coralreef.jpg');
-          box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
-          height: 100vh;
-          width: 100%;
-          display: flex;
-          flex-direction: column;
-          background-position: center center; 
-          background-size: cover;
-          background-repeat: no-repeat;
+  background: url("../../assets/coralreef.jpg");
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
+.hero-container h1 {
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
 
+.content {
+  position: relative;
+  margin: 30vw 25vh;
+}
+
+@media screen and (max-width: 960px) {
+  .content {
+    position: relative;
+    margin: 40vw 5vh;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .content {
+    position: relative;
+    margin: 70vw 2vh;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .content {
+    position: relative;
+    margin: 100vw 5vh;
+  }
 }

@@ -1,0 +1,24 @@
+
+
+.product-image img {
+          height: 300px;
+          min-width: 300px;
+          max-width: 100%;
+          box-shadow: 3px 3px black;
+          border-radius: 10% / 50%;
+}
+
+.product-info {
+          margin-top: auto;
+}
+
+.product-card{
+         background:whitesmoke;
+         border-radius: 1rem;
+          padding: 1rem 2rem;
+          }
+
+.product-btn {
+          margin-left: 40%;
+}
+
